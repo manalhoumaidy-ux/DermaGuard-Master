@@ -1,0 +1,11 @@
+.env
+venv/
+__pycache__/
+*.pth
+*.pyc
+data/isic/
+logs/
+outputs/
+uploads_web/
+*.zip
+*.rar
